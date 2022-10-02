@@ -86,7 +86,7 @@
 <!-- [![Product Name Screen Shot] -->
 <!-- [product-screenshot]] -->
 <!-- (https://example.com) -->
-<img src="src/images/Capture.png" alt="Logo" width="" height="">
+<img src="src/images/Capture.PNG" alt="Logo" width="" height="">
 
 Generate free QR codes on this website. A QR code is a two dimensional barcode that stores information in black and white dots (called data pixels or “QR code modules”). Besides the black and white version, you can also create a colored QR code. For these codes to work without problems, make sure the contrast is sufficient and the result is not a negative (in terms of color). To make your QR code even better, you can also get a QR code with logo.
 
