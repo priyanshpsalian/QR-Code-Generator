@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/priyanshpsalian/QR-Code-Generator/static/css/main.710c943d.css",
+    "main.js": "/priyanshpsalian/QR-Code-Generator/static/js/main.e2df24fb.js",
+    "index.html": "/priyanshpsalian/QR-Code-Generator/index.html",
+    "main.710c943d.css.map": "/priyanshpsalian/QR-Code-Generator/static/css/main.710c943d.css.map",
+    "main.e2df24fb.js.map": "/priyanshpsalian/QR-Code-Generator/static/js/main.e2df24fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.710c943d.css",
+    "static/js/main.e2df24fb.js"
+  ]
+}
